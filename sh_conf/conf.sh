@@ -1,5 +1,6 @@
 #!/bin/bash
 
+service sshd start
 cd /home
 mkdir progetto
 cd progetto
