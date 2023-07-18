@@ -1,0 +1,39 @@
+UML - Casi d'uso
+UML - Casi d'uso nello studio di fattibilità
+UML - Casi d'uso nella pianificazione
+UML - Diagramma delle attività
+UML - Diagramma di sequenza - livello sistema
+UML - Diagramma di sequenza - MVC e dettaglio classi
+UML - Diagramma delle classi
+UML - esercizio di progettazione
+GIT - Attività 1 (singola)
+GIT - Attività 2 (in coppia)
+GIT - Attività 3
+GIT - Attività 4
+Virtualizzazione 1 - Richiami sistemi operativi
+GIT - Attività 5 - approfondimenti
+Virtualizzazione 2 - Real mode, protected mode, protection ring
+Virtualizzazione 3 - Architetture
+Docker 1 - Namespaces, Cgroups and Overlay FS
+Docker 2 - Architettura
+Docker 3.a - from scratch
+Docker 3.b - from ubuntu
+Docker 3.c - RUN
+Docker 3.d - porte
+Docker 3.e - volumi
+Docker 3.f - network
+Docker 4.a - microservizi - db
+Docekr 4.b - microservizi - REST API
+Docker 4.c - microservizi - web application
+Docker 4.d - microservizi - rete e compose
+Docker 4.e - verifica
+0 - MongoDB - introduzione
+1 - MongoDB - installazione
+2 - MongoDB - Esercitazione 1
+2 - MongoDB - Esercitazione 2
+Docker 5.a - compose su congo
+1 - PHP - introduzione
+2 - PHP - esercizio
+SQL Injection
+3 - PHP - esercizio API
+Verifica MongoDB
