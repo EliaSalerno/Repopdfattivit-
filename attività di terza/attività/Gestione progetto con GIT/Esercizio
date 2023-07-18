@@ -1,0 +1,16 @@
+Istruzioni
+Seguite le mie fasi di lavoro (lavorare da git bash):
+
+1. create la cartella progetto;
+2. inserire in git bash il comando "git status", e notare il risultato;
+3. creare la cartella /progetto/utenze;
+4. creare due file 3ia e 3ib in utenze;
+5. reinserire "git status", in questo caso il risultato è differente (abbiamo creato dei file); fino a questo momento solo con le directory GIT non rileva modifiche;
+6. inserire "git add ." da /progetto;
+7. reinserire "git status" e notare l'ulteriore cambiamento, in questo caso con il comando "git add" abbiamo trasferito le modifiche dall'area di lavoro all'area di staging;
+8. per effettuare la foto del progetto al momento attuale inserire il comando "git commit -m "Primo commit" -> "git commit" effettua l'istantanea, l'opzione -m permette l'inserimento di un commento alla commit mentre la scritta tra parentesi è il commento associato alla commit.
+9. inserire il comando "git log --stat" e analizzare il contenuto.
+
+Effettuare degli screen ogni volta che si fa il comando "git status" e "git log" e carica il word.
+
+Per la seconda fase scaricate sul vostro pc il file lista alunni presente nella sezione file
