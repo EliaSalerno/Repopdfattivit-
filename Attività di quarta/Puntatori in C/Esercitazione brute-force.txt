@@ -1,0 +1,2 @@
+Programmate in c seguendo gli argomenti trattati in classe, un codice che effettui un brutal force basato sul codice di cesare sulla seguente stringa: SDVVRWDFL
+In output devono comparire tutte le possibili soluzioni.
