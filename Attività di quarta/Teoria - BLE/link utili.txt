@@ -1,5 +1,0 @@
-https://learn.adafruit.com/introduction-to-bluetooth-low-energy/introduction?classId=ef9a6e19-cefb-4c88-9ab4-5ae273ba9c74&assignmentId=254a6940-07cd-462d-9763-4451ddb278a6
-https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=it&gl=US&classId=ef9a6e19-cefb-4c88-9ab4-5ae273ba9c74&assignmentId=254a6940-07cd-462d-9763-4451ddb278a6&pli=1
-https://play.google.com/store/apps/details?id=io.github.webbluetoothcg.bletestperipheral&hl=it&gl=US&classId=ef9a6e19-cefb-4c88-9ab4-5ae273ba9c74&assignmentId=254a6940-07cd-462d-9763-4451ddb278a6
-https://play.google.com/store/apps/details?id=com.ble.peripheral.sim&hl=it&gl=US&classId=ef9a6e19-cefb-4c88-9ab4-5ae273ba9c74&assignmentId=254a6940-07cd-462d-9763-4451ddb278a6
-https://btprodspecificationrefs.blob.core.windows.net/assigned-numbers/Assigned%20Number%20Types/Assigned_Numbers.pdf?classId=ef9a6e19-cefb-4c88-9ab4-5ae273ba9c74&assignmentId=254a6940-07cd-462d-9763-4451ddb278a6

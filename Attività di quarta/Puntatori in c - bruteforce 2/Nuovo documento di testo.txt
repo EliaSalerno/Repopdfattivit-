@@ -1,8 +1,0 @@
-Dovete creare un algoritmo che inserito un testo (il più lungo possibile e di senso compiuto) conti le occorrenze dei caratteri. In base a quell'array provi a decriptare un messaggio cifrato con un alfabeto non ordinato (se l'inserimento di una frase complessa può crearvi problemi potete spezzare questa operazione in più fasi e aggiungere le nuove occorrenze a quelle contate in precedenza)
-Il messaggio cifrato è in italiano, inserendo una frase lunga e di senso compiuto in italiano, si contano le occorrenze delle lettere nella lingua italiana. Ed in base a quelle occorrenze si analizza il messaggio cifrato. se la lettera che compare maggiormente in italiano è la lettera 'a', controllate il messaggio cifrato e sostituite la 'a' alla lettera che nel messaggio compare di più.... e via dicendo fino alla lettera che compare meno. 
-Attenzione non essendo una scienza esatta potreste non ottenere un risultato soddisfacente fin dal principio perciò vi conviene fare più tentativi. 
-Primo tentativo: partite dalla lettera che compare maggiormente nella lingua italiana. 
-Secondo tentativo: partite dalla seconda che compare di più.
-Regolatevi da soli sul numero di tentativi.
-
-Obiettivo attività: avvicinarsi il più possibile alla soluzione del messaggio.
